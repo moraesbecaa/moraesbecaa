@@ -4,7 +4,7 @@
 
 - 💻 Estudante de Análise e Desenvolvimento de Sistemas pela Unicesumar.
 
-- 🎯 Além da graduação, tenho me aprofundado em conhecimentos de desenvolvimento Front-End.
+- 🎯 Além da graduação, tenho me aprofundado em conhecimentos de desenvolvimento Front-End, Python e Banco de Dados.
 
 ###
 
@@ -24,6 +24,7 @@
   <img align="center" alt="Reb-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Reb-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Reb-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Reb-PYTHON" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
   
   ##
